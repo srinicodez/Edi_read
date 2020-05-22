@@ -1,0 +1,11 @@
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\bin\Debug\Edi_read.exe.config
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\bin\Debug\Edi_read.exe
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\bin\Debug\Edi_read.pdb
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\bin\Debug\indice.Edi.dll
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\bin\Debug\indice.Edi.pdb
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\bin\Debug\indice.Edi.xml
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\obj\Debug\Edi_read.csprojAssemblyReference.cache
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\obj\Debug\Edi_read.csproj.CoreCompileInputs.cache
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\obj\Debug\Edi_read.csproj.CopyComplete
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\obj\Debug\Edi_read.exe
+C:\Users\Srinivas.lakkineni\source\repos\Edi_read\Edi_read\obj\Debug\Edi_read.pdb
